@@ -9,8 +9,6 @@
   <img align="center" alt="Crystyan-CSS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="center" alt="Crystyan-SASS&SCSS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="Crystyan-Js" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Crystyan-React" height="30" width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Crystyana-Python" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Crystyana-Git" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
   
