@@ -10,8 +10,20 @@ Node.js, APIs, software architecture, and clean code** — with a strong
 focus on understanding not only *how* to build things, but *why* they
 should be built that way.
 
-I enjoy turning ideas into real projects and constantly challenging myself
-with new problems, from frontend interfaces to backend logic and APIs.
+---
+## 📊 GitHub Stats
+
+<p align="left">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=CrystyanVerly&show_icons=true&theme=tokyonight&count_private=true"
+  />
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrystyanVerly&layout=compact&theme=tokyonight"
+  />
+</p>
 
 ---
 ## 🌐 Connect with me
@@ -29,19 +41,6 @@ with new problems, from frontend interfaces to backend logic and APIs.
     />
   </a>
 </p>
----
-
-## 🧠 What I'm focusing on
-
-- ⚡ JavaScript & TypeScript
-- ⚛️ React & modern frontend development
-- 🟢 Node.js & REST APIs
-- 🏗️ Software architecture & clean code
-- 🔌 API integration and data handling
-- 📦 Reusable components and modular systems
-- 🧪 Testing and code quality
-- 📚 Continuous learning through real projects
-
 ---
 
 ## 🛠️ Tech Stack
@@ -65,20 +64,6 @@ with new problems, from frontend interfaces to backend logic and APIs.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
----
-## 📊 GitHub Stats
-
-<p align="left">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=CrystyanVerly&show_icons=true&theme=tokyonight&count_private=true"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrystyanVerly&layout=compact&theme=tokyonight"
-  />
-</p>
 ---
 
 ## ⚡ A little about me
