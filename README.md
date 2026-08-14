@@ -12,21 +12,6 @@ should be built that way.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=CrystyanVerly&show_icons=true&theme=tokyonight&cache_seconds=86400"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrystyanVerly&layout=compact&theme=tokyonight&cache_seconds=86400"
-  />
-</p>
-
----
-
 ## 🌐 Connect with me
 
 <p align="left">
