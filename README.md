@@ -25,7 +25,6 @@ should be built that way.
   />
 </p>
 
----
 ## 🌐 Connect with me
 
 <p align="left">
@@ -34,14 +33,12 @@ should be built that way.
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-
   <a href="https://github.com/CrystyanVerly">
     <img
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
     />
   </a>
 </p>
----
 
 ## 🛠️ Tech Stack
 
@@ -65,13 +62,3 @@ should be built that way.
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
-
-## ⚡ A little about me
-
-```javascript
-const crystyan = {
-  location: "Brazil",
-  focus: ["JavaScript", "TypeScript", "React", "Node.js"],
-  learning: ["Software Architecture", "Backend", "System Design"],
-  philosophy: "Build, understand, improve.",
-};
