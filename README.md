@@ -1,4 +1,11 @@
-# Hi, there! 🖖 I'm Crystyan Verly
+# Hi, there! 🖖 I'm Crystyan Verly 
+<p align="left">
+  <a href="https://www.linkedin.com/in/crystyanverly/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+</p>
 
 🇧🇷 Brazil · 💻 Software Developer · 🚀 JavaScript & TypeScript
 
@@ -9,23 +16,6 @@ Currently, I'm deepening my knowledge in **JavaScript, TypeScript, React,
 Node.js, APIs, software architecture, and clean code** — with a strong
 focus on understanding not only *how* to build things, but *why* they
 should be built that way.
-
----
-
-## 🌐 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/crystyanverly/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
-  <a href="mailto:crystyancruzverly@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    />
-  </a>
-</p>
 
 ---
 
