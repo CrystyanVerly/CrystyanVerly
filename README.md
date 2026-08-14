@@ -11,6 +11,7 @@ focus on understanding not only *how* to build things, but *why* they
 should be built that way.
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -24,7 +25,9 @@ should be built that way.
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrystyanVerly&layout=compact&theme=tokyonight&cache_seconds=86400"
   />
 </p>
+
 ---
+
 ## 🌐 Connect with me
 
 <p align="left">
